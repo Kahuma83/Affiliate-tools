@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Affiliate Script Generator",
+  "description": "Generator narasi voiceover dan materi affiliate marketing untuk TikTok \u0026 Shopee Indonesia dengan 4 sudut pandang unik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
